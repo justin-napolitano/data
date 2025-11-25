@@ -1,20 +1,29 @@
 ---
 slug: github-data
 id: github-data
-title: data
+title: Data Repository for Managing and Analyzing Datasets
 repo: justin-napolitano/data
 githubUrl: https://github.com/justin-napolitano/data
 generatedAt: '2025-11-24T21:34:27.593Z'
 source: github-auto
 summary: >-
-  This repository, `data`, is intended to serve as a foundational resource for
-  managing, processing, or analyzing datasets. While specific details about its
-  contents are not provided, it likely supports data-centric workflows or
-  projects.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A foundational resource for managing, processing, and analyzing datasets with
+  a focus on data-centric workflows.
+tags:
+  - data management
+  - data processing
+  - data analysis
+  - git
+  - repository structure
+  - data workflows
+seoPrimaryKeyword: data repository management
+seoSecondaryKeywords:
+  - dataset processing
+  - data analysis scripts
+  - data workflow automation
+  - repository structure
+  - data validation tools
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
