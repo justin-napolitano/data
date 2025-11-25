@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/data
 generatedAt: '2025-11-24T21:34:27.593Z'
 source: github-auto
 summary: >-
-  A foundational resource for managing, processing, and analyzing datasets with
-  a focus on data-centric workflows.
+  A foundational resource for managing, processing, and analyzing datasets with a focus on
+  data-centric workflows.
 tags:
   - data management
   - data processing
@@ -24,8 +24,8 @@ seoSecondaryKeywords:
   - repository structure
   - data validation tools
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -89,4 +89,5 @@ Currently, the repository is empty or does not contain detectable files or folde
 ---
 
 This README will be updated as the repository evolves.
+
 
