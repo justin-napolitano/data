@@ -20,7 +20,7 @@ seoPrimaryKeyword: data repository management
 seoSecondaryKeywords:
   - dataset processing
   - data analysis scripts
-  - data workflow automation
+  - data workflows
   - repository structure
   - data validation tools
 seoOptimized: true
